@@ -23,6 +23,9 @@ A self-taught `Fullstack Developer`.
   - Mistral • ⭐
   - Weaviate (Vector Database) • ⭐
 
+  ### Projects
+  - `Second Brain`
+
 
 ### Projects
 - [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
