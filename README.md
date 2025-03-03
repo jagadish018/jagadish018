@@ -8,7 +8,6 @@ A self-taught `Fullstack Developer`.
 * I develop backend applications in `Node.js`.
 * I develop AI applications using `Mistral models` and `Weaviate vector database`.
 
-
 ### Experience
 
 - Web
