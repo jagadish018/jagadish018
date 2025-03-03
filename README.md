@@ -4,25 +4,25 @@
 # `Hello World, I'm Jagadish C K 👋🏽`
 
 A self-taught `Fullstack Developer`. 
-* I develop mobile applications in  `React js`
-* I develop web applications in `Next.js` 
+* I develop mobile applications in  `React.js` and `Next,js`.
 * I develop backend applications in `Node.js`.
+* I develop AI applications using `Mistral models` and `Weaviate vector database`.
+
 
 ### Experience
 
-- Mobile
-  - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️`
-  - `SwiftUI (Swift)` • `⭐️⭐️⭐️⭐️` `⭐️`
-  - `React (JS)` • `⭐️⭐️⭐️⭐️` `⭐️`
-
-
 - Web
-  - `Next.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Svelte (JS/TS)` • `⭐️⭐️⭐️` `⭐️⭐️`
+  - `Next.js (JS/TS)` • `⭐️`
+  - `React (JS)` • `⭐️⭐️`
+  - `Svelte (JS/TS)` • `⭐️`
  
 - Back End
-  - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
+  - `Node.js (JS/TS)` • `⭐️`
+
+- AI
+  - Mistral • ⭐
+  - Weaviate (Vector Database) • ⭐
+
 
 ### Projects
 - [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
