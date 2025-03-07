@@ -3,7 +3,7 @@
 -->
 # `Hello World, I'm Jagadish C K 👋🏽`
 
-<Check out my portfolio: [My Portfolio](https://portfolio-jagadish.netlify.app/) 
+Check out my portfolio: [My Portfolio](https://portfolio-jagadish.netlify.app/) 
 
 A self-taught `Fullstack Developer`. 
 * I develop mobile applications in  `React.js` and `Next,js`.
