@@ -3,7 +3,7 @@
 -->
 # `Hello World, I'm Jagadish C K 👋🏽`
 
-Check out my portfolio: [My Portfolio](https://portfolio-self-beta-22.vercel.app/) 
+Check out my portfolio: [My Portfolio](https://my-portfolio-three-nu-53.vercel.app/) 
 
 A self-taught `Fullstack Developer`. 
 * I develop mobile applications in  `React.js` and `Next,js`.
